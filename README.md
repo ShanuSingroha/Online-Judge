@@ -1,3 +1,3 @@
 ## Online Judge
 
-This is an online judge :)
+This is an online judge 
